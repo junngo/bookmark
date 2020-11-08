@@ -9,6 +9,8 @@ This is bookmark app for Basic Practice of Django Generic View
 - UpdateView - [BookmarkUpdateView](./bookmark/views.py#L25)
 - DeleteView - [BookmarkDeleteView](./bookmark/views.py#L31)
 
+### URL(deploy - pythonanywhere)
+http://junngo.pythonanywhere.com/bookmark/
 
 ### Command
 django-admin startproject config .
